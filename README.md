@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on AI/ML projects (NLP, Computer Vision, Face Recognition)
+- 🔭 Working on AI/ML projects (NLP, Computer Vision, Generative AI)
 - 🌱 Learning Deep Learning, Transformers & Model Deployment
 - 👯 Open to collaborate on ML, NLP & real-world AI projects
 - 🤝 Looking for help in MLOps & production deployment
